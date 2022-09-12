@@ -47,7 +47,7 @@ The [@ixon-cdk/runner](https://www.npmjs.com/package/@ixon-cdk/runner) page has 
 > The deployment requires a **company ID** and a **page-component-template ID**. Please refer to the documentation on our support website how to obtain these.  
 > Custom Components > [Process steps to request and upload a custom component](https://support.stridelinx.com/hc/en-us/articles/8225255315857#h_01FQXKK6K24W0932DS6W0Q06B8) > Step 4. and 5.
 
-When your component is ready to be used in action, it can be deployed to the IXON Cloud. To do that, you must first log in with your IXON user account.
+When your component is ready to be used in action, it can be deployed to the StrideLinx Cloud. To do that, you must first log in with your IXON user account.
 
 ```sh
 npm run login
